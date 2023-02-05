@@ -1,7 +1,5 @@
 ---
-title: My Site
+title: My Site Title
 ---
 
-# Title
-
-Some text...
+Some description...
